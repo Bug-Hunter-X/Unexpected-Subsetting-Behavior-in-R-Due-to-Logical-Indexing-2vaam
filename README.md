@@ -1,0 +1,2 @@
+# R Subsetting Bug
+This repository demonstrates a common error in R programming related to logical indexing when subsetting data frames.  The `bug.r` file contains code that incorrectly subsets a data frame due to operator precedence. The correct solution is provided in `bugSolution.r` which demonstrates the proper use of parentheses for logical indexing. This error can be tricky to detect, particularly when dealing with complex logical conditions.  The README provides a concise explanation of the problem and its solution.
